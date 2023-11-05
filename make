@@ -13,7 +13,7 @@ CC = gcc
 
 CFLAGS = -pedantic -Wall -Wextra -g -O0
 
-BINARIES = makepath
+BINARIES = makepath labmakepath
 
 all: $(BINARIES)
 
